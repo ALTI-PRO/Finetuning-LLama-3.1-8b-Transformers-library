@@ -1,6 +1,8 @@
 # Fine-Tuning Llama 3.1 8B Instruct for SQL Generation using QLORA
 ![image](https://github.com/user-attachments/assets/be967db7-9298-43cf-b9a9-7452fb6fea45)
 
+Kaggle Notebook: https://www.kaggle.com/code/bertpro/finetuning-llama-3-1-8b-transformers-library (I ran the project on two T4 15 GB GPUS available on Kaggle)
+
 This project demonstrates how to fine-tune the Meta Llama 3.1 8B Instruct model for natural language to SQL query translation using the QLORA (Quantized Low-Rank Adaptation) technique.  The project focuses on achieving efficient fine-tuning with reduced memory usage and faster training times.
 
 ## Overview
